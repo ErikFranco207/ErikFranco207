@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hi align-"center">Hi :call_me_hand: | I am Erik Franco :octocat: | Trying to be a Data Analyst :ok_hand:</h1>
+<hi align="center">Hi :call_me_hand: | I am Erik Franco :octocat: | Trying to be a Data Analyst :ok_hand:</h1>
