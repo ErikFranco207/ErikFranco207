@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 -:books::open_book::black_nib: Ask me about Books <strong> psychology, neuroscience, economics </strong>
 
-- :e-mail:How to reach me: <a herf"https://www.linkedin.com/in/erik-rodr%C3%ADguez-franco-312784144/" target="_blank">Kushal Vijay</a>
+- :e-mail:How to reach me: <a herf"https://www.linkedin.com/in/erik-rodr%C3%ADguez-franco-312784144/" targete"_blank">Kushal Vijay</a>
