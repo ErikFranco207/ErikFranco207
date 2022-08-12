@@ -1,4 +1,4 @@
-### Hi there :v:
+### Hi there :swimming_man:
 
 <!--
 **ErikFranco207/ErikFranco207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 
 - :e-mail:How to reach me: "https://www.linkedin.com/in/erik-rodr%C3%ADguez-franco-312784144/"
  
+- Sports: :swimming_man: | :mountain_biking_man: | :weight_lifting: | :roller_skate:
