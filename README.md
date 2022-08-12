@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 <hi align="center">Hi :call_me_hand: | I am Erik Franco :octocat: | Trying to be a Data Analyst :ok_hand:</h1>
 
-:man_student: I’m currently learning <strong> Python, SQL, Power BI </strong>
-:books::open_book::black_nib: Ask me about <strong> psychology, neuroscience, economics </strong>
+-:man_student: I’m currently learning <strong> Python, SQL, Power BI </strong>
+
+-:books::open_book::black_nib: Ask me about <strong> psychology, neuroscience, economics </strong>
