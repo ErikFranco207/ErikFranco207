@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 -:man_student: I’m currently learning <strong> Python, SQL, Power BI </strong>
 
--:books::open_book::black_nib: Ask me about <strong> psychology, neuroscience, economics </strong>
+-:books::open_book::black_nib: Ask me about Books <strong> psychology, neuroscience, economics </strong>
+
+- :e-mail:How to reach me: <a herf"https://www.linkedin.com/in/erik-rodr%C3%ADguez-franco-312784144/" target="_blank">Kushal Vijay</a>
