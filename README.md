@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :v:
 
 <!--
 **ErikFranco207/ErikFranco207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <hi align="center">Hi :call_me_hand: | I am Erik Franco :octocat: | Trying to be a Data Analyst :ok_hand:</h1>
+
+:man_student: Ask me about <strong> Python, SQL </strong>
